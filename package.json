@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "https://github.com/chungminhluan/nodeJS.git",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chungminhluan/ShangGarden.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "aaaa",
+    "ddd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chungminhluan/ShangGarden/issues"
+  },
+  "homepage": "https://github.com/chungminhluan/ShangGarden#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
